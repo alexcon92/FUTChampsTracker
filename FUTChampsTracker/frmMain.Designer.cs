@@ -100,6 +100,8 @@
             this.btnAddAssist14 = new System.Windows.Forms.Button();
             this.btnAddGoal14 = new System.Windows.Forms.Button();
             this.txtPlayer14 = new System.Windows.Forms.TextBox();
+            this.btnSaveGame = new System.Windows.Forms.Button();
+            this.btnLoadWeekend = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtPlayer1
@@ -736,11 +738,33 @@
             this.txtPlayer14.TabIndex = 67;
             this.txtPlayer14.Text = "Player 14";
             // 
+            // btnSaveGame
+            // 
+            this.btnSaveGame.Location = new System.Drawing.Point(466, 468);
+            this.btnSaveGame.Name = "btnSaveGame";
+            this.btnSaveGame.Size = new System.Drawing.Size(95, 23);
+            this.btnSaveGame.TabIndex = 72;
+            this.btnSaveGame.Text = "Save Weekend";
+            this.btnSaveGame.UseVisualStyleBackColor = true;
+            this.btnSaveGame.Click += new System.EventHandler(this.btnSaveGame_Click);
+            // 
+            // btnLoadWeekend
+            // 
+            this.btnLoadWeekend.Location = new System.Drawing.Point(466, 387);
+            this.btnLoadWeekend.Name = "btnLoadWeekend";
+            this.btnLoadWeekend.Size = new System.Drawing.Size(95, 23);
+            this.btnLoadWeekend.TabIndex = 73;
+            this.btnLoadWeekend.Text = "Load Weekend";
+            this.btnLoadWeekend.UseVisualStyleBackColor = true;
+            this.btnLoadWeekend.Click += new System.EventHandler(this.btnLoadWeekend_Click);
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1233, 606);
+            this.Controls.Add(this.btnLoadWeekend);
+            this.Controls.Add(this.btnSaveGame);
             this.Controls.Add(this.txtAssistsPlayer14);
             this.Controls.Add(this.txtGoalsPlayer14);
             this.Controls.Add(this.btnAddAssist14);
@@ -894,6 +918,8 @@
         private System.Windows.Forms.Button btnAddAssist14;
         private System.Windows.Forms.Button btnAddGoal14;
         private System.Windows.Forms.TextBox txtPlayer14;
+        private System.Windows.Forms.Button btnSaveGame;
+        private System.Windows.Forms.Button btnLoadWeekend;
     }
 }
 

@@ -18,3 +18,5 @@ C:\Users\connoa\FUTChampsTracker-master\FUTChampsTracker\obj\Debug\FUTChampsTrac
 C:\Users\connoa\FUTChampsTracker-master\FUTChampsTracker\obj\Debug\FUTChampsTracker.frmMain.resources
 C:\Users\connoa\FUTChampsTracker-master\FUTChampsTracker\obj\Debug\FUTChampsTracker.Properties.Resources.resources
 C:\Users\connoa\FUTChampsTracker-master\FUTChampsTracker\obj\Debug\FUTChampsTracker.csproj.GenerateResource.Cache
+c:\Projects\FUTChampsTracker\FUTChampsTracker\bin\Debug\nunit.framework.dll
+c:\Projects\FUTChampsTracker\FUTChampsTracker\bin\Debug\nunit.framework.xml

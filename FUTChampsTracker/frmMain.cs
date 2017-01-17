@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using FormSerialisation;
 
 namespace FUTChampsTracker
 {
@@ -158,6 +159,16 @@ namespace FUTChampsTracker
         public void btnAddAssist14_Click(object sender, EventArgs e)
         {
             _alexClass.AddAssist(txtAssistsPlayer14);
+        }
+
+        private void btnSaveGame_Click(object sender, EventArgs e)
+        {
+            _alexClass.SaveGame(frmMain.ActiveForm);
+        }
+
+        private void btnLoadWeekend_Click(object sender, EventArgs e)
+        {
+            _alexClass.LoadWeekend(frmMain.ActiveForm);                      
         }
     }
 }
