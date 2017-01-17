@@ -12,69 +12,152 @@ namespace FUTChampsTracker
 {
     public partial class frmMain : Form
     {
+        private AlexClass _alexClass;
+
         public frmMain()
         {
             InitializeComponent();
+            _alexClass = new AlexClass();
         }
 
-        private void btnAddGoal1_Click(object sender, EventArgs e)
+        public void btnAddGoal1_Click(object sender, EventArgs e)
         {
-            int currentGoals = Convert.ToInt32(txtGoalsPlayer1.Text);
-            txtGoalsPlayer1.Text = (currentGoals + 1).ToString();
+           _alexClass.AddGoal(txtGoalsPlayer1);
         }
 
-        private void btnAddAssist1_Click(object sender, EventArgs e)
+        public void btnAddAssist1_Click(object sender, EventArgs e)
         {
-            int currentAssists = Convert.ToInt32(txtAssistsPlayer1.Text);
-            txtAssistsPlayer1.Text = (currentAssists + 1).ToString();
+           _alexClass.AddAssist(txtAssistsPlayer1);
         }
 
-        private void btnAddGoal2_Click(object sender, EventArgs e)
+        public void btnAddGoal2_Click(object sender, EventArgs e)
         {
-            int currentGoals = Convert.ToInt32(txtGoalsPlayer2.Text);
-            txtGoalsPlayer2.Text = (currentGoals + 1).ToString();
+           _alexClass.AddGoal(txtGoalsPlayer2);
         }
 
-        private void btnAddAssist2_Click(object sender, EventArgs e)
+        public void btnAddAssist2_Click(object sender, EventArgs e)
         {
-            int currentAssists = Convert.ToInt32(txtAssistsPlayer2.Text);
-            txtAssistsPlayer2.Text = (currentAssists + 1).ToString();
+           _alexClass.AddAssist(txtAssistsPlayer2);
         }
 
-        private void btnAddGoal3_Click(object sender, EventArgs e)
+        public void btnAddGoal3_Click(object sender, EventArgs e)
         {
-            int currentGoals = Convert.ToInt32(txtGoalsPlayer3.Text);
-            txtGoalsPlayer3.Text = (currentGoals + 1).ToString();
+           _alexClass.AddGoal(txtGoalsPlayer3);
         }
 
-        private void btnAddAssist3_Click(object sender, EventArgs e)
+        public void btnAddAssist3_Click(object sender, EventArgs e)
         {
-            int currentAssists = Convert.ToInt32(txtAssistsPlayer3.Text);
-            txtAssistsPlayer3.Text = (currentAssists + 1).ToString();
+           _alexClass.AddAssist(txtAssistsPlayer3);
         }
 
-        private void btnAddGoal4_Click(object sender, EventArgs e)
+        public void btnAddGoal4_Click(object sender, EventArgs e)
         {
-            int currentGoals = Convert.ToInt32(txtGoalsPlayer4.Text);
-            txtGoalsPlayer4.Text = (currentGoals + 1).ToString();
+           _alexClass.AddGoal(txtGoalsPlayer4);
         }
 
-        private void btnAddAssist4_Click(object sender, EventArgs e)
+        public void btnAddAssist4_Click(object sender, EventArgs e)
         {
-            int currentAssists = Convert.ToInt32(txtAssistsPlayer4.Text);
-            txtAssistsPlayer4.Text = (currentAssists + 1).ToString();
+           _alexClass.AddAssist(txtAssistsPlayer4);
         }
 
-        private void btnAddGoal5_Click(object sender, EventArgs e)
+        public void btnAddGoal5_Click(object sender, EventArgs e)
         {
-            int currentGoals = Convert.ToInt32(txtGoalsPlayer5.Text);
-            txtGoalsPlayer5.Text = (currentGoals + 1).ToString();
+           _alexClass.AddGoal(txtGoalsPlayer5);
         }
 
-        private void btnAddAssist5_Click(object sender, EventArgs e)
+        public void btnAddAssist5_Click(object sender, EventArgs e)
         {
-            int currentAssists = Convert.ToInt32(txtAssistsPlayer5.Text);
-            txtAssistsPlayer5.Text = (currentAssists + 1).ToString();
+           _alexClass.AddAssist(txtAssistsPlayer5);
+        }
+
+        public void btnAddGoal6_Click(object sender, EventArgs e)
+        {
+           _alexClass.AddGoal(txtGoalsPlayer6);
+        }
+
+        public void btnAddAssist6_Click(object sender, EventArgs e)
+        {
+           _alexClass.AddAssist(txtAssistsPlayer6);
+        }
+
+        public void btnAddGoal7_Click(object sender, EventArgs e)
+        {
+           _alexClass.AddGoal(txtGoalsPlayer7);
+        }
+
+        public void btnAddAssist7_Click(object sender, EventArgs e)
+        {
+           _alexClass.AddAssist(txtAssistsPlayer7);
+        }
+
+        public void btnAddGoal8_Click(object sender, EventArgs e)
+        {
+           _alexClass.AddGoal(txtGoalsPlayer8);
+        }
+
+        public void btnAddAssist8_Click(object sender, EventArgs e)
+        {
+           _alexClass.AddAssist(txtAssistsPlayer8);
+        }
+
+        public void btnAddGoal9_Click(object sender, EventArgs e)
+        {
+           _alexClass.AddGoal(txtGoalsPlayer9);
+        }
+
+        public void btnAddAssist9_Click(object sender, EventArgs e)
+        {
+           _alexClass.AddAssist(txtAssistsPlayer9);
+        }
+
+        public void btnAddGoal10_Click(object sender, EventArgs e)
+        {
+           _alexClass.AddGoal(txtGoalsPlayer10);
+        }
+
+        public void btnAddAssist10_Click(object sender, EventArgs e)
+        {
+           _alexClass.AddAssist(txtAssistsPlayer10);
+        }
+
+        public void btnAddGoal11_Click(object sender, EventArgs e)
+        {
+           _alexClass.AddGoal(txtGoalsPlayer11);
+        }
+
+        public void btnAddAssist11_Click(object sender, EventArgs e)
+        {
+           _alexClass.AddAssist(txtAssistsPlayer11);
+        }
+
+        public void btnAddGoal12_Click(object sender, EventArgs e)
+        {
+           _alexClass.AddGoal(txtGoalsPlayer12);
+        }
+
+        public void btnAddAssist12_Click(object sender, EventArgs e)
+        {
+           _alexClass.AddAssist(txtAssistsPlayer12);
+        }
+
+        public void btnAddGoal13_Click(object sender, EventArgs e)
+        {
+           _alexClass.AddGoal(txtGoalsPlayer13);
+        }
+
+        public void btnAddAssist13_Click(object sender, EventArgs e)
+        {
+           _alexClass.AddAssist(txtAssistsPlayer13);
+        }
+
+        public void btnAddGoal14_Click(object sender, EventArgs e)
+        {
+           _alexClass.AddGoal(txtGoalsPlayer14);
+        }
+
+        public void btnAddAssist14_Click(object sender, EventArgs e)
+        {
+            _alexClass.AddAssist(txtAssistsPlayer14);
         }
     }
 }

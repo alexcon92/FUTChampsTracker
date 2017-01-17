@@ -364,6 +364,7 @@
             this.btnAddAssist6.TabIndex = 29;
             this.btnAddAssist6.Text = "A";
             this.btnAddAssist6.UseVisualStyleBackColor = true;
+            this.btnAddAssist6.Click += new System.EventHandler(this.btnAddAssist6_Click);
             // 
             // btnAddGoal6
             // 
@@ -373,6 +374,7 @@
             this.btnAddGoal6.TabIndex = 28;
             this.btnAddGoal6.Text = "G";
             this.btnAddGoal6.UseVisualStyleBackColor = true;
+            this.btnAddGoal6.Click += new System.EventHandler(this.btnAddGoal6_Click);
             // 
             // txtPlayer6
             // 
@@ -406,6 +408,7 @@
             this.btnAddAssist7.TabIndex = 34;
             this.btnAddAssist7.Text = "A";
             this.btnAddAssist7.UseVisualStyleBackColor = true;
+            this.btnAddAssist7.Click += new System.EventHandler(this.btnAddAssist7_Click);
             // 
             // btnAddGoal7
             // 
@@ -415,6 +418,7 @@
             this.btnAddGoal7.TabIndex = 33;
             this.btnAddGoal7.Text = "G";
             this.btnAddGoal7.UseVisualStyleBackColor = true;
+            this.btnAddGoal7.Click += new System.EventHandler(this.btnAddGoal7_Click);
             // 
             // txtPlayer7
             // 
@@ -448,6 +452,7 @@
             this.btnAddAssist8.TabIndex = 39;
             this.btnAddAssist8.Text = "A";
             this.btnAddAssist8.UseVisualStyleBackColor = true;
+            this.btnAddAssist8.Click += new System.EventHandler(this.btnAddAssist8_Click);
             // 
             // btnAddGoal8
             // 
@@ -457,6 +462,7 @@
             this.btnAddGoal8.TabIndex = 38;
             this.btnAddGoal8.Text = "G";
             this.btnAddGoal8.UseVisualStyleBackColor = true;
+            this.btnAddGoal8.Click += new System.EventHandler(this.btnAddGoal8_Click);
             // 
             // txtPlayer8
             // 
@@ -490,6 +496,7 @@
             this.btnAddAssist9.TabIndex = 44;
             this.btnAddAssist9.Text = "A";
             this.btnAddAssist9.UseVisualStyleBackColor = true;
+            this.btnAddAssist9.Click += new System.EventHandler(this.btnAddAssist9_Click);
             // 
             // btnAddGoal9
             // 
@@ -499,6 +506,7 @@
             this.btnAddGoal9.TabIndex = 43;
             this.btnAddGoal9.Text = "G";
             this.btnAddGoal9.UseVisualStyleBackColor = true;
+            this.btnAddGoal9.Click += new System.EventHandler(this.btnAddGoal9_Click);
             // 
             // txtPlayer9
             // 
@@ -532,6 +540,7 @@
             this.btnAddAssist10.TabIndex = 49;
             this.btnAddAssist10.Text = "A";
             this.btnAddAssist10.UseVisualStyleBackColor = true;
+            this.btnAddAssist10.Click += new System.EventHandler(this.btnAddAssist10_Click);
             // 
             // btnAddGoal10
             // 
@@ -541,6 +550,7 @@
             this.btnAddGoal10.TabIndex = 48;
             this.btnAddGoal10.Text = "G";
             this.btnAddGoal10.UseVisualStyleBackColor = true;
+            this.btnAddGoal10.Click += new System.EventHandler(this.btnAddGoal10_Click);
             // 
             // txtPlayer10
             // 
@@ -574,6 +584,7 @@
             this.btnAddAssist11.TabIndex = 54;
             this.btnAddAssist11.Text = "A";
             this.btnAddAssist11.UseVisualStyleBackColor = true;
+            this.btnAddAssist11.Click += new System.EventHandler(this.btnAddAssist11_Click);
             // 
             // btnAddGoal11
             // 
@@ -583,6 +594,7 @@
             this.btnAddGoal11.TabIndex = 53;
             this.btnAddGoal11.Text = "G";
             this.btnAddGoal11.UseVisualStyleBackColor = true;
+            this.btnAddGoal11.Click += new System.EventHandler(this.btnAddGoal11_Click);
             // 
             // txtPlayer11
             // 
@@ -616,6 +628,7 @@
             this.btnAddAssist12.TabIndex = 59;
             this.btnAddAssist12.Text = "A";
             this.btnAddAssist12.UseVisualStyleBackColor = true;
+            this.btnAddAssist12.Click += new System.EventHandler(this.btnAddAssist12_Click);
             // 
             // btnAddGoal12
             // 
@@ -625,6 +638,7 @@
             this.btnAddGoal12.TabIndex = 58;
             this.btnAddGoal12.Text = "G";
             this.btnAddGoal12.UseVisualStyleBackColor = true;
+            this.btnAddGoal12.Click += new System.EventHandler(this.btnAddGoal12_Click);
             // 
             // txtPlayer12
             // 
@@ -658,6 +672,7 @@
             this.btnAddAssist13.TabIndex = 64;
             this.btnAddAssist13.Text = "A";
             this.btnAddAssist13.UseVisualStyleBackColor = true;
+            this.btnAddAssist13.Click += new System.EventHandler(this.btnAddAssist13_Click);
             // 
             // btnAddGoal13
             // 
@@ -667,6 +682,7 @@
             this.btnAddGoal13.TabIndex = 63;
             this.btnAddGoal13.Text = "G";
             this.btnAddGoal13.UseVisualStyleBackColor = true;
+            this.btnAddGoal13.Click += new System.EventHandler(this.btnAddGoal13_Click);
             // 
             // txtPlayer13
             // 
@@ -700,6 +716,7 @@
             this.btnAddAssist14.TabIndex = 69;
             this.btnAddAssist14.Text = "A";
             this.btnAddAssist14.UseVisualStyleBackColor = true;
+            this.btnAddAssist14.Click += new System.EventHandler(this.btnAddAssist14_Click);
             // 
             // btnAddGoal14
             // 
@@ -709,6 +726,7 @@
             this.btnAddGoal14.TabIndex = 68;
             this.btnAddGoal14.Text = "G";
             this.btnAddGoal14.UseVisualStyleBackColor = true;
+            this.btnAddGoal14.Click += new System.EventHandler(this.btnAddGoal14_Click);
             // 
             // txtPlayer14
             // 
