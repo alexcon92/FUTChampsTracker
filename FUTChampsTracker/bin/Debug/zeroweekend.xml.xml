@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ChildForm>
+  <Control Type="System.Windows.Forms.Button" Name="btnLoadWeekend">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnSaveGame">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtAssistsPlayer14">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtGoalsPlayer14">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddAssist14">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddGoal14">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtPlayer14">
+    <Text>Player 14</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtAssistsPlayer13">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtGoalsPlayer13">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddAssist13">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddGoal13">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtPlayer13">
+    <Text>Player 13</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtAssistsPlayer12">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtGoalsPlayer12">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddAssist12">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddGoal12">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtPlayer12">
+    <Text>Player 12</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtAssistsPlayer11">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtGoalsPlayer11">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddAssist11">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddGoal11">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtPlayer11">
+    <Text>Player 11</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtAssistsPlayer10">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtGoalsPlayer10">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddAssist10">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddGoal10">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtPlayer10">
+    <Text>Player 10</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtAssistsPlayer9">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtGoalsPlayer9">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddAssist9">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddGoal9">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtPlayer9">
+    <Text>Player 9</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtAssistsPlayer8">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtGoalsPlayer8">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddAssist8">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddGoal8">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtPlayer8">
+    <Text>Player 8</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtAssistsPlayer7">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtGoalsPlayer7">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddAssist7">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddGoal7">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtPlayer7">
+    <Text>Player 7</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtAssistsPlayer6">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtGoalsPlayer6">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddAssist6">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddGoal6">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtPlayer6">
+    <Text>Player 6</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtAssistsPlayer5">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtGoalsPlayer5">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddAssist5">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddGoal5">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtPlayer5">
+    <Text>Player 5</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtAssistsPlayer4">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtGoalsPlayer4">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddAssist4">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddGoal4">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtPlayer4">
+    <Text>Player 4</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtAssistsPlayer3">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtGoalsPlayer3">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddAssist3">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddGoal3">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtPlayer3">
+    <Text>Player 3</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtAssistsPlayer2">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtGoalsPlayer2">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddAssist2">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddGoal2">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtPlayer2">
+    <Text>Player 2</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtAssistsPlayer1">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtGoalsPlayer1">
+    <Text>0</Text>
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddAssist1">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.Button" Name="btnAddGoal1">
+    <Visible>True</Visible>
+  </Control>
+  <Control Type="System.Windows.Forms.TextBox" Name="txtPlayer1">
+    <Text>Player 1</Text>
+    <Visible>True</Visible>
+  </Control>
+</ChildForm>
