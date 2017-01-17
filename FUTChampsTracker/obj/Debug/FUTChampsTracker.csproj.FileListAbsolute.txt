@@ -1,0 +1,9 @@
+c:\Projects\FUTChampsTracker\FUTChampsTracker\bin\Debug\FUTChampsTracker.exe.config
+c:\Projects\FUTChampsTracker\FUTChampsTracker\bin\Debug\FUTChampsTracker.exe
+c:\Projects\FUTChampsTracker\FUTChampsTracker\bin\Debug\FUTChampsTracker.pdb
+c:\Projects\FUTChampsTracker\FUTChampsTracker\obj\Debug\FUTChampsTracker.csprojResolveAssemblyReference.cache
+c:\Projects\FUTChampsTracker\FUTChampsTracker\obj\Debug\FUTChampsTracker.frmMain.resources
+c:\Projects\FUTChampsTracker\FUTChampsTracker\obj\Debug\FUTChampsTracker.Properties.Resources.resources
+c:\Projects\FUTChampsTracker\FUTChampsTracker\obj\Debug\FUTChampsTracker.csproj.GenerateResource.Cache
+c:\Projects\FUTChampsTracker\FUTChampsTracker\obj\Debug\FUTChampsTracker.exe
+c:\Projects\FUTChampsTracker\FUTChampsTracker\obj\Debug\FUTChampsTracker.pdb
